@@ -1,6 +1,6 @@
 # AQ’S Corner Senior Cybersecurity Framework Model™
 
-A human-centered cybersecurity framework for seniors — and for the people who support and train them.
+A human-centered cybersecurity framework for seniors, and for the people who support and train them.
 
 This repository hosts the **AQ’S Corner Senior Cybersecurity Framework Model™**, a modern, practical adaptation of four major cybersecurity frameworks:
 
@@ -113,3 +113,21 @@ Use this framework to:
 - Develop workshops or programs  
 - Build safety checklists and handouts  
 - Support multigenerational learning  
+
+
+The repository will grow to include:
+
+/missions
+/training
+/images
+
+👩🏾‍💻 About the Creator
+
+Created by Aqueelah Emanuel, Founder of AQ’S Corner LLC, a mother-daughter cybersecurity education initiative supporting seniors, families, and communities often overlooked in traditional security training.
+
+My work centers on caregiving, community, cybersecurity, and digital empowerment.
+This framework represents one part of a mission to ensure no generation is left behind.
+
+🟦 A New Standard
+
+This is the beginning of a new standard. Cybersecurity is not reserved for the tech-savvy or the young, it belongs to every generation. A safer digital future starts with frameworks like this and leaders willing to build solutions for those who’ve been overlooked for far too long.
