@@ -97,7 +97,7 @@ It is designed for:
 
 ## 🚀 Senior CyberHero Missions™ (Coming Soon)
 
-This model is the foundation for upcoming **Senior CyberHero Missions™** — guided digital safety activities and printable resources designed specifically for older adults.
+This model is the foundation for upcoming **Senior CyberHero Missions™** guided digital safety activities and printable resources designed specifically for older adults.
 
 All future missions and training tools will align with the four pillars of this framework.
 
