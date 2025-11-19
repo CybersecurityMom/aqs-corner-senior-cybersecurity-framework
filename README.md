@@ -164,9 +164,8 @@ If you’re:
 
 I’d love to connect.
 
-- Website: *(add your link here)*  
-- LinkedIn: *(add your profile link here)*  
-- Email: *(contact email or form link)*
+- Website: *aqscorner.com*  
+- Email: [*(contact email or form link)*](https://aqscorner.com/contact/)
 
 ---
 
