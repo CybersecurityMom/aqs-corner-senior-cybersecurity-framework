@@ -70,7 +70,7 @@ This model restructures major cybersecurity frameworks into clear, plain-English
 
 ## 🎯 Purpose of the Framework
 
-People of all ages and backgrounds express concerns about cybersecurity and aging — especially the assumption that certain groups “can’t learn this.”  
+People of all ages and backgrounds express concerns about cybersecurity and aging, especially the assumption that certain groups “can’t learn this.”  
 This framework challenges that narrative.
 
 It exists to:
@@ -97,7 +97,7 @@ It is designed for:
 
 ## 🚀 Senior CyberHero Missions™ (Coming Soon)
 
-This model is the foundation for upcoming **Senior CyberHero Missions™** — guided digital safety activities and printable resources designed specifically for older adults.
+This model is the foundation for upcoming **Senior CyberHero Missions™** guided digital safety activities and printable resources designed specifically for older adults.
 
 All future missions and training tools will align with the four pillars of this framework.
 
@@ -148,7 +148,7 @@ Suggestions or collaboration requests are welcome through direct contact.
 
 ## 👩🏾‍💻 About the Creator
 
-Created by **Aqueelah Emanuel**, Founder of **AQ’S Corner LLC** — a mother-daughter cybersecurity education initiative supporting seniors, families, and communities often overlooked in traditional security training.
+Created by **Aqueelah Emanuel**, Founder of **AQ’S Corner LLC**, a mother-daughter cybersecurity education initiative supporting seniors, families, and communities often overlooked in traditional security training.
 
 Her work focuses on accessible, human-centered cybersecurity and digital empowerment.  
 The **Senior Cybersecurity Framework Model™** represents one part of a larger mission to ensure no generation is left behind.
