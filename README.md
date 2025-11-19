@@ -17,7 +17,7 @@ The mission is simple:
 
 ## 🌐 The Framework at a Glance
 
-![AQ’S Corner Senior Cybersecurity Framework Model](images/aqs-senior-framework.png)
+![AQ’S Corner Senior Cybersecurity Framework Model](images/aqs-senior-framework.png) 
 
 
 **The four pillars of the model are:**
