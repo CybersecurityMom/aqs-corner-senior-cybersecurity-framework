@@ -1,162 +1,69 @@
 # AQ’S Corner Senior Cybersecurity Framework Model™
 
-A human-centered cybersecurity framework for seniors — and for the people who support and train them.
+A human-centered cybersecurity model designed to support seniors, caregivers, and community educators with simple, practical safety practices rooted in respected cybersecurity standards.
 
-This repository hosts the **AQ’S Corner Senior Cybersecurity Framework Model™**, a modern, practical adaptation of four foundational cybersecurity standards and controls:
+This repository hosts the **AQ’S Corner Senior Cybersecurity Framework Model™**, created by **Aqueelah Emanuel**, Founder of **AQ’S Corner LLC**, and inspired by principles from:
 
-- **NIST** (National Institute of Standards and Technology)  
-- **CIS Benchmarks** (Center for Internet Security)  
+- **NIST** — National Institute of Standards and Technology  
+- **CIS Benchmarks** — Center for Internet Security  
 - **SANS Controls**  
-- **ISO Standards** (International Organization for Standardization)
+- **ISO Standards** — International Organization for Standardization  
 
-The mission is simple:
+The goal is simple:
 
-> **Make cybersecurity teachable, believable, and usable for seniors — without losing the integrity of the original standards.**
-
----
-
-## 🌐 The Framework at a Glance
-
-![AQ’S Corner Senior Cybersecurity Framework Model](images/aqs-senior-framework.png)
-
-**The four pillars of the model are:**
-
-- **Awareness & Devices (NIST)**  
-- **Settings & Privacy (CIS)**  
-- **Digital Habits & Credentials (SANS)**  
-- **Online Safety & Behavior (ISO)**  
-
-This model restructures major cybersecurity standards and controls into clear, plain-English actions that seniors can understand and apply daily.
+> **Make cybersecurity understandable, usable, and empowering for older adults — without losing the integrity of the original standards.**
 
 ---
 
-## 🔵 Pillar 1 — Awareness & Devices  
-### (NIST → Identify, Protect, Detect, Respond, Recover)
+# 🌐 The Framework Overview
 
-- **Know it** — Understand your devices and accounts.  
-- **Protect it** — Use passwords, updates, and built-in protections.  
-- **Notice it** — Spot unusual pop-ups, messages, or logins.  
-- **Respond early** — Ask for help as soon as something feels off.
+The model is built on four pillars:
 
----
+### 🔵 Pillar 1 — Awareness & Devices (NIST)  
+Recognize when something feels “off,” notice unusual digital activity, and respond early.
 
-## 🟪 Pillar 2 — Settings & Privacy  
-### (CIS Benchmarks → Device Hardening)
+### 🟪 Pillar 2 — Settings & Privacy (CIS)  
+Update devices, tighten settings, limit permissions, and lock what matters.
 
-- **Update** — Keep devices and apps current.  
-- **Tighten** — Strengthen privacy and security settings.  
-- **Limit** — Restrict unnecessary app permissions.  
-- **Lock** — Use screen locks and device safeguards.
+### 🟨 Pillar 3 — Digital Habits & Credentials (SANS)  
+Passwords, checkups, and safe device behaviors.
+
+### 🟩 Pillar 4 — Online Safety & Behavior (ISO)  
+Safe sharing, safe shopping, and safe connections.
 
 ---
 
-## 🟨 Pillar 3 — Digital Habits & Credentials  
-### (SANS Controls → Everyday Safety)
+# ⭐ Current Focus: Pillar 1 – Awareness & Devices (NIST)
 
-- **Passwords** — Use strong, memorable passphrases.  
-- **Checkups** — Review accounts, apps, and settings regularly.  
-- **Screen locks** — Ensure devices auto-lock when unused.
+We are beginning the Senior CyberHero Missions™ series with **Pillar 1**, the most foundational and confidence-building part of the framework.
 
----
+Pillar 1 teaches seniors to:
 
-## 🟩 Pillar 4 — Online Safety & Behavior  
-### (ISO Standards → Global Online Trust & Safety)
+- Recognize when something feels “off”  
+- Notice strange timing, unexpected messages, or urgent pressure  
+- Pause before reacting  
+- Ask for help early  
 
-- **Safe sharing** — Protect personal information.  
-- **Safe shopping** — Verify websites before entering payment details.  
-- **Safe connections** — Be cautious with Wi-Fi and unsolicited messages.
+These align with NIST’s **Identify → Detect → Respond** lifecycle in a simple, plain-English way.
 
 ---
 
-## 🎯 Purpose of the Framework
+# 🚀 Senior CyberHero Missions™ (Live Now)
 
-People of all ages and backgrounds express concerns about cybersecurity and aging, especially the assumption that certain groups “can’t learn this.”  
-This framework challenges that narrative.
+Practical, real-life digital safety scenarios for seniors:
 
-It exists to:
+- **Scenario 1 – Late-Night Text**  
+  → `missions/scenario-01-late-night-text.md`  
+- **Scenario 2 – Doctor Portal Email**  
+  → `missions/scenario-02-doctor-portal-email.md`  
+- **Scenario 3 – Warning Pop-Up**  
+  → `missions/scenario-03-warning-popup.md`
 
-- Equip seniors with practical digital safety skills  
-- Support caregivers and community leaders in teaching cybersecurity  
-- Bridge generational digital gaps  
-- Build confidence, not fear  
-- Ensure cybersecurity belongs to **every** generation  
+### Printable Reference Sheet  
+- **Pillar 1 Awareness Checklist**  
+  → `missions/pillar-1-awareness-checklist.md`
 
-It is designed for:
-
-- Libraries  
-- Senior centers  
-- Church groups  
-- Veteran communities  
-- AARP chapters  
-- Families  
-- Caregivers  
-- Educators  
-- Workplaces  
+For details, visit the full missions index:  
+➡️ `missions/README.md`
 
 ---
-
-## 🚀 Senior CyberHero Missions™ (Coming Soon)
-
-This model is the foundation for upcoming **Senior CyberHero Missions™** guided digital safety activities and printable resources designed specifically for older adults.
-
-All future missions and training tools will align with the four pillars of this framework.
-
----
-
-## 🧭 How to Use This Repository
-
-Use this framework to:
-
-- Train seniors directly  
-- Train librarians, caregivers, and senior center staff  
-- Develop workshops and community programs  
-- Create safety checklists and handouts  
-- Support multigenerational learning  
-
-The repository will grow to include:
-
-/missions
-/training
-/images
-
-
----
-
-## 📌 How to Cite This Framework
-
-If you use this model in workshops, trainings, presentations, or educational materials, please include the following credit:
-
-**“AQ’S Corner Senior Cybersecurity Framework Model™ created by Aqueelah Emanuel, Founder of AQ’S Corner LLC.”**
-
-For online use, please link back to this repository.
-
----
-
-## 📝 Permissions
-
-For commercial use, licensing requests, partnerships, or media inquiries, please contact **AQ’S Corner LLC** directly.  
-This framework may not be resold, repackaged, or used commercially without permission.
-
----
-
-## 🤝 Contributions
-
-This framework is an original work and is not open for public contributions at this time.  
-Suggestions or collaboration requests are welcome through direct contact.
-
----
-
-## 👩🏾‍💻 About the Creator
-
-Created by **Aqueelah Emanuel**, Founder of **AQ’S Corner LLC**, a mother-daughter cybersecurity education initiative supporting seniors, families, and communities often overlooked in traditional security training.
-
-Her work focuses on accessible, human-centered cybersecurity and digital empowerment.  
-The **Senior Cybersecurity Framework Model™** represents one part of a larger mission to ensure no generation is left behind.
-
----
-
-## 🟦 A New Standard
-
-**This is the beginning of a new standard.**  
-Cybersecurity is not reserved for the tech-savvy or the young; it belongs to every generation.  
-A safer digital future starts with frameworks like this and leaders willing to build solutions for those who’ve been overlooked for far too long.
