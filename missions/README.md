@@ -4,10 +4,13 @@ Senior CyberHero Missions™ are guided digital safety activities designed for o
 
 Each mission connects directly to one of the four pillars of the **AQ’S Corner Senior Cybersecurity Framework Model™**:
 
-- **Awareness & Devices (NIST)**  
-- **Settings & Privacy (CIS)**  
-- **Digital Habits & Credentials (SANS)**  
-- **Online Safety & Behavior (ISO)**  
+- Awareness & Devices (NIST)
+- Settings & Privacy (CIS)
+- Digital Habits & Credentials (SANS)
+- Online Safety & Behavior (ISO)
+
+> **This section currently focuses ONLY on Pillar 1 missions.  
+> Missions for Pillars 2–4 will be added as the Senior CyberHero series expands.**
 
 Missions are meant to be:
 
@@ -23,12 +26,12 @@ We are beginning the Senior CyberHero Missions™ series with **Pillar 1**, the 
 
 Pillar 1 focuses on helping seniors:
 
-- Recognize when something feels “off”  
-- Notice strange timing, unexpected messages, or urgent pressure  
-- Pause before reacting  
-- Ask for help early  
+- Recognize when something feels “off”
+- Notice strange timing, unexpected messages, or urgent pressure
+- Pause before reacting
+- Ask for help early
 
-These skills support NIST’s “Identify → Detect → Respond” principles in a simple, human-centered way.
+These skills support NIST’s **Identify → Detect → Respond** principles in a simple, human-centered way.
 
 ---
 
@@ -79,4 +82,4 @@ Future mission types include:
 - Bank & shopping safety scenarios  
 - Urgency, pressure, and emotional manipulation scenarios  
 
-All missions will remain fully aligned to the four pillars of the AQ’S Corner Senior Cybersecurity Framework Model™.
+All missions will remain fully aligned to the four pillars of the **AQ’S Corner Senior Cybersecurity Framework Model™**.
