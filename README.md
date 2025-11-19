@@ -2,7 +2,7 @@
 
 A human-centered cybersecurity framework for seniors — and for the people who support and train them.
 
-This repository hosts the **AQ’S Corner Senior Cybersecurity Framework Model™**, a modern, practical adaptation of four major cybersecurity frameworks:
+This repository hosts the **AQ’S Corner Senior Cybersecurity Framework Model™**, a modern, practical adaptation of four foundational cybersecurity standards and controls:
 
 - **NIST** (National Institute of Standards and Technology)  
 - **CIS Benchmarks** (Center for Internet Security)  
@@ -11,7 +11,7 @@ This repository hosts the **AQ’S Corner Senior Cybersecurity Framework Model�
 
 The mission is simple:
 
-> **Make cybersecurity teachable, believable, and usable for seniors — without losing the integrity of the original frameworks.**
+> **Make cybersecurity teachable, believable, and usable for seniors — without losing the integrity of the original standards.**
 
 ---
 
@@ -26,7 +26,7 @@ The mission is simple:
 - **Digital Habits & Credentials (SANS)**  
 - **Online Safety & Behavior (ISO)**  
 
-This model restructures major cybersecurity frameworks into clear, plain-English actions that seniors can understand and apply daily.
+This model restructures major cybersecurity standards and controls into clear, plain-English actions that seniors can understand and apply daily.
 
 ---
 
@@ -97,7 +97,7 @@ It is designed for:
 
 ## 🚀 Senior CyberHero Missions™ (Coming Soon)
 
-This model is the foundation for upcoming **Senior CyberHero Missions™** guided digital safety activities and printable resources designed specifically for older adults.
+This model is the foundation for upcoming **Senior CyberHero Missions™** — guided digital safety activities and printable resources designed specifically for older adults.
 
 All future missions and training tools will align with the four pillars of this framework.
 
