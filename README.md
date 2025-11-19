@@ -1,6 +1,6 @@
 # AQ’S Corner Senior Cybersecurity Framework Model™
 
-A human-centered cybersecurity framework for seniors, and for the people who support and train them.
+A human-centered cybersecurity framework for seniors — and for the people who support and train them.
 
 This repository hosts the **AQ’S Corner Senior Cybersecurity Framework Model™**, a modern, practical adaptation of four major cybersecurity frameworks:
 
@@ -18,7 +18,6 @@ The mission is simple:
 ## 🌐 The Framework at a Glance
 
 ![AQ’S Corner Senior Cybersecurity Framework Model](images/aqs-senior-framework.png)
-
 
 **The four pillars of the model are:**
 
@@ -71,8 +70,7 @@ This model restructures major cybersecurity frameworks into clear, plain-English
 
 ## 🎯 Purpose of the Framework
 
-People of all ages and backgrounds express concerns about cybersecurity and aging — especially the assumption that certain groups “can’t learn this.”
-
+People of all ages and backgrounds express concerns about cybersecurity and aging — especially the assumption that certain groups “can’t learn this.”  
 This framework challenges that narrative.
 
 It exists to:
@@ -81,7 +79,7 @@ It exists to:
 - Support caregivers and community leaders in teaching cybersecurity  
 - Bridge generational digital gaps  
 - Build confidence, not fear  
-- Ensure cybersecurity belongs to **every** generation
+- Ensure cybersecurity belongs to **every** generation  
 
 It is designed for:
 
@@ -97,9 +95,9 @@ It is designed for:
 
 ---
 
-## 🚀 Senior CyberHero Missions (Coming Soon)
+## 🚀 Senior CyberHero Missions™ (Coming Soon)
 
-This model is the foundation for upcoming **Senior CyberHero Missions** — guided digital safety activities and printable resources designed specifically for older adults.
+This model is the foundation for upcoming **Senior CyberHero Missions™** — guided digital safety activities and printable resources designed specifically for older adults.
 
 All future missions and training tools will align with the four pillars of this framework.
 
@@ -111,10 +109,9 @@ Use this framework to:
 
 - Train seniors directly  
 - Train librarians, caregivers, and senior center staff  
-- Develop workshops or programs  
-- Build safety checklists and handouts  
+- Develop workshops and community programs  
+- Create safety checklists and handouts  
 - Support multigenerational learning  
-
 
 The repository will grow to include:
 
@@ -122,13 +119,44 @@ The repository will grow to include:
 /training
 /images
 
-👩🏾‍💻 About the Creator
 
-Created by Aqueelah Emanuel, Founder of AQ’S Corner LLC, a mother-daughter cybersecurity education initiative supporting seniors, families, and communities often overlooked in traditional security training.
+---
 
-My work centers on caregiving, community, cybersecurity, and digital empowerment.
-This framework represents one part of a mission to ensure no generation is left behind.
+## 📌 How to Cite This Framework
 
-🟦 A New Standard
+If you use this model in workshops, trainings, presentations, or educational materials, please include the following credit:
 
-This is the beginning of a new standard. Cybersecurity is not reserved for the tech-savvy or the young, it belongs to every generation. A safer digital future starts with frameworks like this and leaders willing to build solutions for those who’ve been overlooked for far too long.
+**“AQ’S Corner Senior Cybersecurity Framework Model™ created by Aqueelah Emanuel, Founder of AQ’S Corner LLC.”**
+
+For online use, please link back to this repository.
+
+---
+
+## 📝 Permissions
+
+For commercial use, licensing requests, partnerships, or media inquiries, please contact **AQ’S Corner LLC** directly.  
+This framework may not be resold, repackaged, or used commercially without permission.
+
+---
+
+## 🤝 Contributions
+
+This framework is an original work and is not open for public contributions at this time.  
+Suggestions or collaboration requests are welcome through direct contact.
+
+---
+
+## 👩🏾‍💻 About the Creator
+
+Created by **Aqueelah Emanuel**, Founder of **AQ’S Corner LLC** — a mother-daughter cybersecurity education initiative supporting seniors, families, and communities often overlooked in traditional security training.
+
+Her work focuses on accessible, human-centered cybersecurity and digital empowerment.  
+The **Senior Cybersecurity Framework Model™** represents one part of a larger mission to ensure no generation is left behind.
+
+---
+
+## 🟦 A New Standard
+
+**This is the beginning of a new standard.**  
+Cybersecurity is not reserved for the tech-savvy or the young; it belongs to every generation.  
+A safer digital future starts with frameworks like this and leaders willing to build solutions for those who’ve been overlooked for far too long.
