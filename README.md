@@ -140,7 +140,7 @@ This framework may not be repackaged, resold, or commercialized without permissi
 # 🟦 A New Standard
 
 Cybersecurity is no longer just for the tech-savvy or the young.  
-It belongs to every generation — including those who built the world we now protect.
+It belongs to every generation, including those who built the world we now protect.
 
 **This is the beginning of a new standard.**
 
